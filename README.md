@@ -13,4 +13,4 @@ The script is written in PHP and features a straightforward pastebin-style inter
    3. Create a user and database for MySQL, and then import/install the `db.sql` file.
    4. Once you have imported the file to your database, delete the `db.sql` file.
    5. Open the `config.php` file in the include folder and `enter your MYSQL details and site configuration`
-   6. `Upload all the files to your web server`, with `index.php`, `raw.php`, and `paste.ph`p located in the `root folder`.
+   6. `Upload all the files to your web server`, with `index.php`, `raw.php`, and `paste.php` located in the `root folder`.
